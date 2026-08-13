@@ -6,6 +6,12 @@ O projeto valida as regras de negócio, preenchimento de formulários, validaç�
 
 ---
 
+## 🎥 Demonstração dos Testes em Vídeo
+
+🎬 **[Clique aqui para assistir à execução dos testes automatizados no Google Drive](https://drive.google.com/file/d/1DNwpCXDq_wkJ8hJDAC71qSiRIKCQ34-G/view?usp=drive_link)**
+
+---
+
 ## 🧪 Cobertura dos Testes Automatizados (12 Casos de Teste)
 
 | ID | Caso de Teste | Descrição / Ação | Status |
